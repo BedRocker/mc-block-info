@@ -1,6 +1,6 @@
 {
   "name": "@bedrocker/mc-block-info",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "private": false,
   "description": "",
   "main": "lib/index.js",
